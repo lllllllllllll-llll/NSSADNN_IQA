@@ -1,5 +1,5 @@
 # NSSADNN_IQA
-Pytorch version of IEEE Transactions on Multimedia 2019:"[B. Yan, B. Bare and W. Tan, "Naturalness-Aware Deep No-Reference Image Quality Assessment," in IEEE Transactions on Multimedia, vol. 21, no. 10, pp. 2603-2615, Oct. 2019, doi: 10.1109/TMM.2019.2904879.]"(https://ieeexplore.ieee.org/document/8666733)
+Pytorch version of IEEE Transactions on Multimedia 2019 : [B. Yan, B. Bare and W. Tan, "Naturalness-Aware Deep No-Reference Image Quality Assessment," in IEEE Transactions on Multimedia, vol. 21, no. 10, pp. 2603-2615, Oct. 2019, doi: 10.1109/TMM.2019.2904879.](https://ieeexplore.ieee.org/document/8666733)
 
 # Note
 *I did not use the learning rate that used in the paper: 0.01, because the ideal result cannot be obtained when the initial learning rate is 0.01, so the initial learning rate set here is 0.001 instead of 0.01.
