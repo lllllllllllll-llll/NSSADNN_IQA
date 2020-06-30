@@ -67,11 +67,11 @@ if __name__ == '__main__':
     index = []
     if args.dataset == "LIVE":
         print("dataset: LIVE")
-        index = list(range(0, 29))
+        index = list(range(1, 30))
         random.shuffle(index)
     elif args.dataset == "TID2013":
         print("dataset: TID2013")
-        index = list(range(0, 25))
+        index = list(range(0, 26))
 
     print('rando index', index)
 
